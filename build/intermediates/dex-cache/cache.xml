@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\komar\.android\build-cache\edc1ea22f5fa0eb1dadbafa154af1dee079b571a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deeedea2337dcd05cdf1b76f6ade5077976a3d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SomeProjects\Android\Store\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ebc588405f669cf81ecaf216bd355b57e1df215">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_14fede81243dfe3d0a7fa54711a10a41b70cc569\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\komar\.android\build-cache\0cbc894de5c9bf6684d52b3241b4b4bb6255a3fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7822a112fe353ed74f1472d81105120e4e4da030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\komar\.android\build-cache\5b12151090d26fa17b333ca9ae93242e32192fde\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_91326e2ce09d24191d1fac7ce6c73c35c9b7cbb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SomeProjects\Android\Store\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_296b8ed71cd61935add1a86fd89827555eb2a535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\komar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_9fcd5004f0188da9147e15843aec4bb71093a4a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\komar\.android\build-cache\5b12151090d26fa17b333ca9ae93242e32192fde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\SomeProjects\Android\Store\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0036bf2450ad371cb6a4c96333e75ff7458f165\classes.dex" />
+    </item>
+
+</items>
